@@ -1,5 +1,5 @@
 import streamlit as st
-from src.data_loader import data_load
+from src.dataloader2 import data_load
 from src.dashboard import create_dashboard
 
 # Load data
